@@ -1,5 +1,4 @@
 ﻿python-telegram-bot==20.7
-flask
-python-dotenv
-pandas
-websocket-client
+flask==3.0.2
+pandas2.2.2
+python-dotenv==1.0.1
